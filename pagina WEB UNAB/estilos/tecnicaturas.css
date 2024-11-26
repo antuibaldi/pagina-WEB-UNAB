@@ -1,0 +1,40 @@
+body {
+    place-content: center;
+    display: grid;    
+}
+
+#color1 {
+    background-color: blue;
+}
+
+#color2 {
+    background-color: rgb(24, 164, 230);
+}
+#color3 {
+    background-color: rgb(24, 230, 69);
+}
+#color4 {
+    background-color: rgb(146, 67, 136);
+}
+#color5 {
+    background-color: rgb(146, 218, 144);
+}
+#color6 {
+    background-color: rgb(148, 41, 41);
+}
+#color7 {
+    background-color: rgb(230, 227, 24);
+}
+#color8 {
+    background-color: rgb(204, 140, 159);
+}
+#color9 {
+    background-color: rgb(230, 24, 24);
+}
+.border{
+    border-radius: 5%;
+}
+
+#texto {
+    color: black;
+}

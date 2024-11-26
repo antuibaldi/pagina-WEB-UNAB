@@ -1,0 +1,21 @@
+body {
+    place-content: center;
+    display: grid;    
+}
+
+#color1 {
+    background-color: blue;
+    
+}
+
+#color2 {
+    background-color: rgb(24, 164, 230);
+    
+}
+.border{
+    border-radius: 5%;
+}
+
+#texto {
+    color: black;
+}
