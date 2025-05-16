@@ -1,0 +1,29 @@
+body {
+    place-content: center;
+    display: grid;    
+}
+
+#color1 {
+    background-color: blue;
+}
+
+#color2 {
+    background-color: rgb(24, 164, 230);
+}
+#color3 {
+    background-color: rgb(24, 230, 69);
+}
+#color4 {
+    background-color: rgb(146, 67, 136);
+}
+#color5 {
+    background-color: rgb(146, 218, 144);
+}
+
+.border{
+    border-radius: 5%;
+}
+
+#texto {
+    color: black;
+}
